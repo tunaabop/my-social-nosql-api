@@ -1,5 +1,5 @@
 const router = require("express").Router();
-// import crud op methods
+// import crud op methods from corresponding controller
 const {
   getAllThoughts,
   getThoughtById,
