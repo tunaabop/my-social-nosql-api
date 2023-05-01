@@ -6,9 +6,9 @@ This is an API created using MongoDB and Express.js for a social network web app
 
 ## Walkthrough Video
 
-This is the backend of an application, therefore will not be deployed. Here is the [link](https://drive.google.com/file/d/1divYGR9IdVTTmsznYCHRzQco7USGgX4X/view) to a walkthrough video that demonstrates the functionality of the app. 
+This is the backend of an application, therefore will not be deployed. Here is the [link]() to a walkthrough video that demonstrates the functionality of the app. 
 
-![Image showing a screenshot of walkthrough video](./deliverable/ecomm_demo.gif)
+![Image showing a screenshot of walkthrough video]()
 
 ## How to Contribute <a name="contribute"/>
 
